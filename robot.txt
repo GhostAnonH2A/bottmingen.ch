@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.haargenau-bottmingen.ch/panen303/sitemap.xml
